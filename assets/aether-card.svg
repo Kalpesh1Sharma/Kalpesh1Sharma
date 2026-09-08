@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="300" viewBox="0 0 720 300" role="img">
+<style>
+ .bg{fill:#fffaf5;stroke:#ead9cf}.text{fill:#2f2927}.muted{fill:#7c6b66}.accent{fill:#e78b69}.rule{stroke:#ead9cf}.chipbg{fill:#f7eee7}
+ .title{font:800 43px Inter,Segoe UI,Arial,sans-serif;letter-spacing:-1.3px}.eyebrow{font:700 13px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:1.1px}.copy{font:400 19px Inter,Segoe UI,Arial,sans-serif}.metric{font:800 28px Inter,Segoe UI,Arial,sans-serif}.label{font:600 12px ui-monospace,SFMono-Regular,Consolas,monospace}.chip{font:600 13px ui-monospace,SFMono-Regular,Consolas,monospace}
+ @media (prefers-color-scheme:dark){.bg{fill:#0d1016;stroke:#262c37}.text{fill:#f7f1ea}.muted{fill:#9ca1ad}.accent{fill:#ff86a7}.rule{stroke:#262c37}.chipbg{fill:#171c25}}
+</style>
+<rect x="1" y="1" width="718" height="298" rx="24" class="bg" stroke-width="2"/><rect x="1" y="1" width="8" height="298" rx="4" class="accent"/>
+<text x="34" y="38" class="eyebrow accent">02 · DISTRIBUTED SYSTEMS</text><text x="34" y="84" class="title text">Aether</text>
+<text x="34" y="121" class="copy muted">Async task orchestration with Redis/Lua claiming and worker recovery.</text><text x="34" y="149" class="copy muted">Exactly-once execution made explicit, measurable, and testable.</text>
+<line x1="34" y1="173" x2="686" y2="173" class="rule"/>
+<text x="34" y="211" class="metric text">2,000</text><text x="34" y="232" class="label muted">JOBS COMPLETED</text><text x="283" y="211" class="metric text">67.9 JOBS / SEC</text>
+<rect x="34" y="252" width="560" height="30" rx="15" class="chipbg"/><text x="49" y="272" class="chip muted">FastAPI · Redis · Lua · PostgreSQL · asyncio</text><text x="624" y="272" class="eyebrow accent">OPEN &gt;</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="380" viewBox="0 0 720 380" role="img">
+<style>
+ .bg{fill:#fffaf5;stroke:#ead9cf}.text{fill:#2f2927}.muted{fill:#7c6b66}.line{stroke:#ead9cf;stroke-width:2;fill:none}.chip{fill:#fffdf9}.rose{stroke:#df6f8b;fill:#fffdf9}.peach{stroke:#ee9b71;fill:#fffdf9}.mint{stroke:#5d9b83;fill:#fffdf9}.blue{stroke:#6f8fb6;fill:#fffdf9}
+ .h{font:800 28px Inter,Segoe UI,Arial,sans-serif}.m{font:700 12px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.5px}.t{font:700 19px Inter,Segoe UI,Arial,sans-serif}
+ @media (prefers-color-scheme:dark){.bg{fill:#0d1016;stroke:#262c37}.text{fill:#f7f1ea}.muted{fill:#9ca1ad}.line{stroke:#262c37}.chip{fill:#11151d}.rose{stroke:#ff7da2;fill:#11151d}.peach{stroke:#ffb178;fill:#11151d}.mint{stroke:#81d8c0;fill:#11151d}.blue{stroke:#8db7ec;fill:#11151d}}
+</style>
+<rect x="1" y="1" width="718" height="378" rx="24" class="bg" stroke-width="2"/><text x="34" y="52" class="h text">the system map</text><text x="34" y="77" class="m muted">PRODUCT → API → DATA → AI → DELIVERY</text>
+<path class="line" d="M126 161 H236 M356 161 H466 M586 161 H660"/><path class="line" d="M296 204 V278 H360"/><path class="line" d="M526 204 V278 H360"/>
+<g><rect x="34" y="118" width="126" height="86" rx="18" class="rose" stroke-width="2"/><text x="52" y="148" class="m muted">PRODUCT</text><text x="52" y="178" class="t text">React</text><text x="52" y="197" class="m muted">TypeScript</text></g>
+<g><rect x="236" y="118" width="120" height="86" rx="18" class="peach" stroke-width="2"/><text x="254" y="148" class="m muted">API</text><text x="254" y="178" class="t text">FastAPI</text><text x="254" y="197" class="m muted">asyncio</text></g>
+<g><rect x="466" y="118" width="120" height="86" rx="18" class="mint" stroke-width="2"/><text x="484" y="148" class="m muted">DATA</text><text x="484" y="178" class="t text">Postgres</text><text x="484" y="197" class="m muted">Redis</text></g>
+<g><rect x="584" y="238" width="102" height="86" rx="18" class="blue" stroke-width="2"/><text x="601" y="268" class="m muted">AI</text><text x="601" y="297" class="t text">RAG</text><text x="601" y="316" class="m muted">Agents</text></g>
+<g><rect x="266" y="278" width="188" height="66" rx="18" class="chip" stroke="#ead9cf" stroke-width="2"/><text x="286" y="305" class="m muted">DELIVERY / SYSTEMS</text><text x="286" y="332" class="t text">Docker · CI/CD</text></g>
+<path class="line" d="M454 311 H584"/>
+</svg>

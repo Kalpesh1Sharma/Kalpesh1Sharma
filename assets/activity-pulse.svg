@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="260" viewBox="0 0 720 260" role="img">
+<style>
+ .bg{fill:#fffaf5;stroke:#ead9cf}.text{fill:#2f2927}.muted{fill:#7c6b66}.pulse{fill:none;stroke:#df6f8b;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.node{fill:#fffdf9;stroke:#df6f8b;stroke-width:2}.h{font:800 25px Inter,Segoe UI,Arial,sans-serif}.m{font:600 11px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.4px}
+ @media (prefers-color-scheme:dark){.bg{fill:#0d1016;stroke:#262c37}.text{fill:#f7f1ea}.muted{fill:#9ca1ad}.pulse{stroke:#ff7da2}.node{fill:#11151d;stroke:#ff7da2}}
+</style>
+<rect x="1" y="1" width="718" height="258" rx="24" class="bg" stroke-width="2"/><text x="32" y="45" class="h text">activity pulse</text><text x="32" y="67" class="m muted">RUN THE WORKFLOW ONCE · THEN THIS REFRESHES DAILY</text>
+<path class="pulse" d="M34 175 C90 175 98 139 142 139 S196 196 244 196 S291 108 340 108 S396 161 445 161 S494 90 544 90 S597 139 686 139"/>
+<g class="node"><circle cx="34" cy="175" r="7"/><circle cx="142" cy="139" r="8"/><circle cx="244" cy="196" r="6"/><circle cx="340" cy="108" r="10"/><circle cx="445" cy="161" r="7"/><circle cx="544" cy="90" r="11"/><circle cx="686" cy="139" r="8"/></g><text x="32" y="231" class="m muted">OWNED BY THIS REPO · NO THIRD-PARTY STATS SERVICE</text></svg>

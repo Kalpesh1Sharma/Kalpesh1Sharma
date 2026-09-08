@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="340" viewBox="0 0 720 340" role="img" aria-labelledby="title desc">
+<title id="title">Kalpesh Sharma</title><desc id="desc">Full-Stack Developer, Backend and AI Engineer</desc>
+<style>
+ .bg{fill:#fff8f0;stroke:#ead9cf}.panel{fill:#fffdf9;stroke:#ead9cf}.text{fill:#2f2927}.muted{fill:#7c6b66}.line{stroke:#ead9cf;stroke-width:2;fill:none}.node{fill:#fffdf9;stroke:#df6f8b;stroke-width:2}.pulse{fill:#df6f8b}.mint{fill:#5d9b83}
+ .title{font:800 54px Inter,Segoe UI,Arial,sans-serif;letter-spacing:-2px}.role{font:600 22px Inter,Segoe UI,Arial,sans-serif}.copy{font:400 18px Inter,Segoe UI,Arial,sans-serif}.mono{font:600 12px ui-monospace,SFMono-Regular,Consolas,monospace;letter-spacing:.5px}
+ @media (prefers-color-scheme:dark){.bg{fill:#0b0d12;stroke:#252a35}.panel{fill:#10131a;stroke:#252a35}.text{fill:#f7f1ea}.muted{fill:#9ca1ad}.line{stroke:#252a35}.node{fill:#10131a;stroke:#ff7da2}.pulse{fill:#ff7da2}.mint{fill:#81d8c0}}
+</style>
+<rect x="1" y="1" width="718" height="338" rx="28" class="bg" stroke-width="2"/>
+<path class="line" d="M44 82 C125 28 176 42 224 87 S337 148 392 98 S493 35 551 83 S628 142 676 73"/>
+<path class="line" d="M52 274 C138 214 193 276 255 229 S365 197 420 239 S531 290 676 229"/>
+<path class="line" d="M182 91 L252 228 M392 98 L420 239 M551 83 L578 268" opacity=".7"/>
+<circle class="node" cx="45" cy="81" r="6"/><circle class="node" cx="182" cy="91" r="8"/><circle class="node" cx="392" cy="98" r="7"/><circle class="node" cx="551" cy="83" r="9"/><circle class="node" cx="252" cy="228" r="7"/><circle class="node" cx="420" cy="239" r="8"/><circle class="node" cx="578" cy="268" r="7"/>
+<circle class="pulse" r="4"><animateMotion dur="5s" repeatCount="indefinite" path="M44 82 C125 28 176 42 224 87 S337 148 392 98 S493 35 551 83 S628 142 676 73"/></circle>
+<rect x="42" y="42" width="160" height="31" rx="15" class="panel"/><circle cx="59" cy="58" r="4" class="mint"/><text x="72" y="62" class="mono muted">STATUS: SHIPPING</text>
+<rect x="64" y="105" width="592" height="160" rx="24" class="panel" stroke-width="2" opacity=".97"/>
+<text x="93" y="170" class="title text">KALPESH SHARMA</text><text x="94" y="208" class="role text">Full-Stack Developer · Backend &amp; AI Engineer</text><text x="94" y="240" class="copy muted">building products where reliability is part of the feature.</text>
+<rect x="547" y="126" width="86" height="28" rx="14" class="bg"/><text x="561" y="145" class="mono muted">JAIPUR · IN</text>
+</svg>

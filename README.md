@@ -18,51 +18,17 @@
 
 ---
 
-## featured projects
-
 <p align="center">
   <img src="./assets/projects-scrapbook.png" width="100%" alt="PaperForge, Aether and Sentinel featured projects" />
 </p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### [PaperForge](https://github.com/Kalpesh1Sharma/paperforge)
-
-**Full-stack document intelligence.**
-
-Source PDFs → grounded synthesis → traceable report → precise edit → human review → verified DOCX.
-
-`React` `TypeScript` `FastAPI` `PyMuPDF` `AI`
-
-</td>
-<td width="33%" valign="top">
-
-### [Aether](https://github.com/Kalpesh1Sharma/Aether)
-
-**Distributed task orchestration.**
-
-Atomic Redis/Lua claiming, async workers, retries, DLQ, crash recovery and measurable execution guarantees.
-
-`FastAPI` `Redis` `Lua` `PostgreSQL` `asyncio`
-
-</td>
-<td width="33%" valign="top">
-
-### [Sentinel](https://github.com/Kalpesh1Sharma/sentinel-support-agent)
-
-**Reliable enterprise RAG.**
-
-Retrieval with explicit grounding + relevance checks and safe refusal when the evidence is not there.
-
-`Python` `FastAPI` `FAISS` `RAG` `Docker`
-
-</td>
-</tr>
-</table>
-
-## tech, but without the badge wall
+<p align="center">
+  <a href="https://github.com/Kalpesh1Sharma/paperforge"><b>PaperForge ↗</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Kalpesh1Sharma/Aether"><b>Aether ↗</b></a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://github.com/Kalpesh1Sharma/sentinel-support-agent"><b>Sentinel ↗</b></a>
+</p>
 
 <p align="center">
   <img src="./assets/tech-board.png" width="100%" alt="Kalpesh Sharma technology board" />

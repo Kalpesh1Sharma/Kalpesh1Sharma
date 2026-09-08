@@ -19,23 +19,23 @@
 ---
 
 <p align="center">
-  <img src="./assets/projects-scrapbook.png" width="100%" alt="PaperForge, Aether and Sentinel featured projects" />
+  <img src="./assets/projects-scrapbook.png" width="100%" alt="Featured builds: PaperForge, Aether, Sentinel" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Kalpesh1Sharma/paperforge"><b>PaperForge ↗</b></a>
+  <a href="https://github.com/Kalpesh1Sharma/paperforge"><b>open PaperForge ↗</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Kalpesh1Sharma/Aether"><b>Aether ↗</b></a>
+  <a href="https://github.com/Kalpesh1Sharma/Aether"><b>see Aether ↗</b></a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/Kalpesh1Sharma/sentinel-support-agent"><b>Sentinel ↗</b></a>
+  <a href="https://github.com/Kalpesh1Sharma/sentinel-support-agent"><b>visit Sentinel ↗</b></a>
 </p>
 
 <p align="center">
-  <img src="./assets/tech-board.png" width="100%" alt="Kalpesh Sharma technology board" />
+  <img src="./assets/tech-board.png" width="100%" alt="Tech I vibe with" />
 </p>
 
 <details>
-<summary><b>what sits behind the pretty note</b></summary>
+<summary><b>what sits behind the pretty notes</b></summary>
 <br/>
 
 - **Product:** React, TypeScript, JavaScript
@@ -78,5 +78,5 @@ keep the cat away from the keyboard.
 ```
 
 <p align="center">
-  <sub>games · music · puzzles · small systems turning into suspiciously large repositories</sub>
+  <sub>useful > flashy · build, learn, repeat · side projects have a habit of getting larger than planned</sub>
 </p>
